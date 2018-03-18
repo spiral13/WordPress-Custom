@@ -1,0 +1,15 @@
+{
+    "name": "mint/custom_perso",
+    "authors": [
+        {
+            "name": "spiral13",
+            "email": "cyno13@msn.com"
+        }
+    ],
+    "require": {
+        "johnpbloch/wordpress": "^4.9"
+    },
+		"extra": {
+			"wordpress-install-dir":"wp"
+		}
+}
